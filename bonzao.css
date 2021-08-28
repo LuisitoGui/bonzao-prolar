@@ -1,0 +1,156 @@
+header{
+	background: linear-gradient(#191970 70%, #0000CD);
+    width: auto;
+    margin: auto;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+header h1{
+	color: white;
+	text-align: center;
+	padding-top: 60px;
+	font-size: 9em
+}
+
+header ul{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+header li{
+	display: inline-block;
+
+	
+}
+
+nav a{
+	color: white;
+	font-size: 35px;
+	padding-left: 20px;
+	margin-top: 20px;
+	text-decoration: none
+	font-weight: bold
+}
+
+nav a:hover{
+	color: red;
+}
+
+main{
+	width: auto;
+	margin: auto;
+}
+
+main ul{
+	margin-left: 50px
+    
+}
+
+.produtos{
+	display: inline-block;
+	width: 25%;
+	text-align:center;
+	margin-left: 30px;
+	margin-top: 80px;
+	vertical-align: top;
+	margin-bottom: 50px;
+	border: 1px solid black;
+	padding: 20px;
+	
+}
+
+.imagens{
+	width: 250px
+
+}
+
+ul h2{
+	padding-bottom: 15px;
+	font-weight: bold;
+}
+
+.descricao{
+	padding-top: 15px
+}
+
+.produtos2{
+	display: inline-block;
+	width: 25%;
+	text-align:center;
+	margin-left: 30px;
+	vertical-align: top;
+	margin-bottom: 50px;
+	border: 1px solid black;
+	padding: 20px;
+
+}
+
+footer{
+	
+	background: linear-gradient(#191970 70%, #0000CD);
+	margin-top: 50px;
+	padding-top: 25px;
+	padding-bottom: 15px;
+	text-align: center
+}
+
+footer p{
+	color: white;
+	padding-top: 15px
+}
+
+.logob{
+	width: 7%
+}
+
+/* sobre nós */
+
+.corpo_sobre{
+    background: linear-gradient(white,#4876FF)
+}
+
+.sobre-principal{
+	width: 940px;
+	margin: auto;
+}
+
+.texto-principal{
+	margin-top: 3em;
+	text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 2em;
+	line-height: 1.5;
+	margin-bottom: 1em
+}
+
+.texto-principal:first-line{
+	font-size: 2em
+}
+
+h2{
+	font-size: 1.5em
+}
+.mapas{
+	text-align: center
+}
+
+.mapa1{
+	margin-bottom: 4em
+}
+
+.mapa2{
+	padding-bottom: 2em
+}
+
+iframe{
+	padding-top: 25px
+}
+h3{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 2em
+}
+
+.footer-sobre{
+	margin-top: 0%
+}
+
